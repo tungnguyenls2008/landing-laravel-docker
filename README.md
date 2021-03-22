@@ -4,7 +4,6 @@
 This application creates a links landing page where you can share relevant links to an audience.
 Links are initially imported from a `links.yml` file in the root of the application, and can be managed via Artisan commands (in the console / command-line).
 
-
 ## Managing Links
 Links are initially imported from a `links.yml` file at the root of the repository. The seeds are only imported when the database is empty, so to not duplicate your links.
 
