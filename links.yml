@@ -1,0 +1,8 @@
+- url: https://google.com
+  description: Google Search Engine
+- url: https://laravel.com
+  description: Laravel
+- url: https://github.com
+  description: GitHub
+- url: https://stackoverflow.com
+  description: StackOverflow
